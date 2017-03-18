@@ -1,0 +1,3 @@
+# Games
+
+This repository consists browser games such as "Kill Ghosts", "Offline Google" etc....
